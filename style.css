@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: lightskyblue;
+    color: white;
+}
+
+.principal{
+    display: inline-block;
+}
+
+h1{
+    background-color: lightskyblue;
+    color: lightsalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h2{
+
+    background-color: lightskyblue;
+    color: lightsalmon;
+    font-family: cursive;
+
+}
